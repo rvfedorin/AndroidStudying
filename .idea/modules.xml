@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Bits_and_Pizzas.iml" filepath="$PROJECT_DIR$/.idea/modules/Bits_and_Pizzas.iml" group="Bits_and_Pizzas" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Bits and Pizzas/app" />
-    </modules>
-  </component>
-</project>
