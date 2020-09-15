@@ -10,4 +10,14 @@
         android:layout_height="match_parent"
         android:text="@string/title_top" />
 
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/pizza_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".PizzaMaterialFragment"
+        android:scrollbars="vertical"
+        android:layout_marginTop="20dp">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
 </RelativeLayout>
